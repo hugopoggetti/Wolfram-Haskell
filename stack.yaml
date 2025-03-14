@@ -1,0 +1,7 @@
+resolver: lts-23.3
+packages:
+  - .
+extra-deps: []
+allow-newer: true
+system-ghc: false
+#install-ghc: true
